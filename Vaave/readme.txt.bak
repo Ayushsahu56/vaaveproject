@@ -1,0 +1,10 @@
+Setup Google Auth Librabry for Login
+-Install Google Auth Librabry using composer by writing the command 
+composer reruire google/apiclient:"^2.0"
+To start the project follow these steps: 
+-Unzip the file in your folder namely Vaave
+-Start Xaamp 
+	-Start apache and mysql server
+-Create one database in phpmyadmin namely 'vaave'
+-Open chrome and type localhost/Vaave/login.php
+
